@@ -1,0 +1,2 @@
+-Proyecto final del módulo Vanilla JS del curso Full Stack Web Developer
+-La App funciona abriendo el archivo index.html en un navegador

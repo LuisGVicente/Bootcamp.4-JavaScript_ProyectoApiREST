@@ -1,0 +1,91 @@
+body {
+    font-family: 'Bebas Neue', cursive;
+}
+
+footer {
+    background-color:#d32f2f ;
+    margin-top: 4%;
+}
+
+.card-img-top {
+    max-width: 200px;
+
+}
+.bluel{
+    color: rgb(40, 115, 185);
+}
+.cardB{
+    display: inline-block;
+    margin-top:4%;
+    margin-right: 1%;
+    margin-left: 4%;
+    padding:1%;
+    border:1px solid black;
+    border-radius: 1%;
+}
+
+.filtro {
+    border: 1px solid black;
+    padding: .5%;
+    margin:2%;
+    margin-bottom: 3.8%;
+    margin-left: 30%;
+    border-radius: 1%;
+}
+.formulario{
+    display: inline-flex;
+}
+.formul {
+    border: 1px solid black;
+    padding: 1%;
+    margin:2%;
+    margin-bottom: 3.3%;
+    margin-left: 37%;
+    border-radius: 1%;
+    max-width: 30%;
+    display: inline-flex;
+}
+
+#marvelId{
+    margin-left: 2%;
+}
+#loganDiv{
+    margin-left: 3%;
+}
+.marvimg {
+  max-width: 250px;
+  max-height: 50px;
+    
+}
+#navbar{
+    position: fixed;
+    width: 100%;
+    z-index: 1000;
+}
+img {
+    -webkit-transform: scale(1,1);
+    -webkit-transition-timing-function: ease-out;
+    -webkit-transition-duration: 250ms;
+    -moz-transform: scale(1,1);
+    -moz-transition-timing-function: ease-out;
+    -moz-transition-duration: 250ms;
+}
+img:hover {
+    -webkit-transform: scale(1.12,1.12);
+    -webkit-transition-timing-function: ease-out;
+    -webkit-transition-duration: 100ms;
+    -moz-transform: scale(1.12,1.12);
+    -moz-transition-timing-function: ease-out;
+    -moz-transition-duration: 100ms;
+}
+.pcha{
+    margin-left: 30%;
+    margin-right: 30%;
+}
+.chaImg{
+    margin-left:38%;
+    
+}
+.chaName{
+    margin-left:42%;
+}
